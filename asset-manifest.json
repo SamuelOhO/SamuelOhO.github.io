@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SamuelOhO/SamuelOhO.github.io.git/static/css/main.e6c13ad2.css",
+    "main.js": "/SamuelOhO/SamuelOhO.github.io.git/static/js/main.5888d5ad.js",
+    "static/js/453.ed3810f9.chunk.js": "/SamuelOhO/SamuelOhO.github.io.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/voice_chatbot2.png": "/SamuelOhO/SamuelOhO.github.io.git/static/media/voice_chatbot2.2e5bf7ea1bed02b04289.png",
+    "static/media/voice_chatbot1.png": "/SamuelOhO/SamuelOhO.github.io.git/static/media/voice_chatbot1.42689bda32c2d4138e1b.png",
+    "static/media/Weekly Page.png": "/SamuelOhO/SamuelOhO.github.io.git/static/media/Weekly Page.9ecdf213bbbb44e2d352.png",
+    "static/media/Calendar Page-B.png": "/SamuelOhO/SamuelOhO.github.io.git/static/media/Calendar Page-B.1e2570c23c7d20a38421.png",
+    "static/media/emotion.png": "/SamuelOhO/SamuelOhO.github.io.git/static/media/emotion.94e281fb3ca3696ccecb.png",
+    "static/media/Calendar Page-A.png": "/SamuelOhO/SamuelOhO.github.io.git/static/media/Calendar Page-A.c776ce6235963b3cc564.png",
+    "index.html": "/SamuelOhO/SamuelOhO.github.io.git/index.html",
+    "main.e6c13ad2.css.map": "/SamuelOhO/SamuelOhO.github.io.git/static/css/main.e6c13ad2.css.map",
+    "main.5888d5ad.js.map": "/SamuelOhO/SamuelOhO.github.io.git/static/js/main.5888d5ad.js.map",
+    "453.ed3810f9.chunk.js.map": "/SamuelOhO/SamuelOhO.github.io.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5888d5ad.js"
+  ]
+}
